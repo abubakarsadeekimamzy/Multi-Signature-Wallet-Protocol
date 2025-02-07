@@ -11,3 +11,5 @@ T
 $tests/signature-verification.test.ts,2/f/2f52d18d427831cde5ea07dc13b44a4292fe3aa1
 S
 #contracts/transaction-proposal.clar,8/1/819e5b9e627598ea34a080511d6d77fe2af66651
+R
+"tests/transaction-proposal.test.ts,6/f/6f3c43affac4be6e63edf1e91f7e74c21785ee2f
