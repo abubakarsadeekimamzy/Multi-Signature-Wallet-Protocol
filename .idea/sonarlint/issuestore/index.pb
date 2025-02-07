@@ -9,3 +9,5 @@ U
 %contracts/signature-verification.clar,2/f/2f829c6f8798bb0cf9172ae89640643180a98eaf
 T
 $tests/signature-verification.test.ts,2/f/2f52d18d427831cde5ea07dc13b44a4292fe3aa1
+S
+#contracts/transaction-proposal.clar,8/1/819e5b9e627598ea34a080511d6d77fe2af66651
